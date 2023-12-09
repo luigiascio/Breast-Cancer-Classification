@@ -81,3 +81,8 @@ OUTPUT: [1]
 Note:
 Due to a warning about feature names, users are encouraged to refer to scikit-learn documentation for potential adjustments.
 This comprehensive machine learning pipeline aims to effectively classify breast cancer, offering a practical tool for medical diagnosis.
+
+
+## 5. Data and References  
+The dataset is from [Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data).  
+This project is inspired from this [video](https://www.youtube.com/watch?v=bFh1umUDaGc&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=24)
